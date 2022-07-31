@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  background-color: rgb(250, 235, 49);
+  padding: 20px 50px 20px 50px;
+}
+
+.header-inner {
+  .header-logo {
+    display: flex;
+    align-items: center;
+
+    img {
+      width: 40px;
+    }
+    &__text {
+      margin-left: 5px;
+      font-size: 30px;
+      font-weight: 500;
+    }
+  }
+}
