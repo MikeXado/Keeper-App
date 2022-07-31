@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Keeper-App/static/css/main.07a2ebdd.css",
+    "main.js": "/Keeper-App/static/js/main.5d665535.js",
+    "static/media/lightbulb.png": "/Keeper-App/static/media/lightbulb.62245cbacda5ee209c03.png",
+    "index.html": "/Keeper-App/index.html",
+    "main.07a2ebdd.css.map": "/Keeper-App/static/css/main.07a2ebdd.css.map",
+    "main.5d665535.js.map": "/Keeper-App/static/js/main.5d665535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a2ebdd.css",
+    "static/js/main.5d665535.js"
+  ]
+}
